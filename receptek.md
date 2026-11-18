@@ -1,4 +1,7 @@
 # Kedvenc receptek
 ## Desszertek
-aós és lekváros palacsinta- Madártej (extra vaníliával)
+- Kakaós és lekváros palacsinta
+- Madártej (extra vaníliával)
 ## Sós ételek
+- Gulyásleves
+- Hortobágyi húsos palacsinta
